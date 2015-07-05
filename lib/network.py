@@ -18,6 +18,10 @@ DEFAULT_PORTS = {'t':'50001', 's':'50002', 'h':'8081', 'g':'8082'}
 
 DEFAULT_SERVERS = {
     'electrum-pkb.net': DEFAULT_PORTS,
+    'electrum.uk1.parkbyte.com': DEFAULT_PORTS,
+    'electrum.eu1.parkbyte.com': DEFAULT_PORTS,
+    'electrum.eu2.parkbyte.com': DEFAULT_PORTS,
+    'electrum.canada.parkbyte.com': DEFAULT_PORTS,
 }
 
 NODES_RETRY_INTERVAL = 60
